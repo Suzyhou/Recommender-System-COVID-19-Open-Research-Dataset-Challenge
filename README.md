@@ -3,5 +3,8 @@ In response to the COVID-19 pandemic, the White House and a coalition of leading
 </br></br>
 The goal of this project is to use NLP and other machine learning algorithms to develop a tool that can text-mine this database of research articles to gain useful insights about COVID-19 and how we might be able to tackle the outbreak, contain the spread and flatten the curve.
 
+## Requirement
+Python Version 3.X is required</br>
+numpy, Scipy, Scikit, Matplotlib, Pandas, NLTK.
 
 
